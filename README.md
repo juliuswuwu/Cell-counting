@@ -1,0 +1,2 @@
+# Cell-counting
+A cell-counting algorithm was created to efficiently count both dead and alive cells from a smartphone taken photo. The algorithm works only if dead cell and alive cells and the background are different range of colors. This algorithm works great with counting 90% for all alive cells. But only calculate 75% of the dead cells due to lighter dead cells blending with the background color. 
